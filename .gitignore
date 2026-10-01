@@ -1,0 +1,25 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+
+# Planilhas geradas/editadas na execução da automação
+ProdutosAtualizado.xlsx
+
+# Webdrivers / Logs do Selenium
+chromedriver
+geckodriver
+chromedriver.exe
+geckodriver.exe
+ghostdriver.log
+*.log
+
+# Caches e arquivos temporários do Python e Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Credenciais e variáveis de ambiente (se houver no futuro)
+.env
