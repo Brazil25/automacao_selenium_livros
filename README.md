@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Automação utilizando selenium para buscar livros.
-=======
 # Automação com Selenium - Busca de Livros
 
 Busca de livros automatizada na plataforma Project Gutenberg, de livros gratuitos.
