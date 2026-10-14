@@ -79,4 +79,3 @@ Antes de começar, você precisará ter instalado em sua máquina:
 ## Licença
 
 Este projeto está sob a licença MIT.
->>>>>>> fda563c (Atualização do arquivo README.md)
